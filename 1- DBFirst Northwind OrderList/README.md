@@ -1,5 +1,5 @@
 # DBFirst Northwind OrderList
-Bu uygulamada Database First yaklaþýmý kullanýlmýþtýr. Northwind database kullanýlarak bu databasedeki çalýþanlarýn Order Listlerini listelemek ve bu orderlar üzerine güncelleme, silme ve yeni order ekleme iþlemlerini yapmak için oluþturulmuþ bir uygulamadýr.
+Bu uygulamada Database First yaklaþýmý kullanýlmýþtýr. Northwind database kullanýlarak bu databasedeki çalýþanlarýn Orderlarý listelemek ve bu orderlar üzerinde güncelleme, silme ve yeni order ekleme iþlemlerini yapmak için oluþturulmuþ bir uygulamadýr. Programýn çalýþmasý için Northwind SQL Server içinde database olarak bilgisayarýnýzda bulunmalýdýr. 
 
 ## Programýn Çalýþmasý
 
